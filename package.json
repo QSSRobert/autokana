@@ -1,24 +1,23 @@
 {
-  "name": "jquery.autokana",
+  "name": "dokuritsu-autokana",
   "version": "1.0.0",
-  "description": "Library for automatically rendering Furigana for inputed Japanese Text.",
-  "main": "jquery.autoKana.js",
+  "description": "A zero-dependency library for automatically rendering Furigana for inputed Japanese Text.",
+  "main": "dokuritsu-autoKana.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harisenbon/autokana.git"
+    "url": "git+https://github.com/QSSRobert/dokuritsu-autokana.git"
   },
   "keywords": [
-    "jquery",
-    "plugin",
+    "furigana",
     "autokana"
   ],
-  "author": "Keith Perhac",
+  "author": "Robert Blackburn",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/harisenbon/autokana/issues"
+    "url": "https://github.com/QSSRobert/dokuritsu-autokana/issues"
   },
-  "homepage": "https://github.com/harisenbon/autokana#readme"
+  "homepage": "https://github.com/QSSRobert/dokuritsu-autokana#readme"
 }
