@@ -1,4 +1,4 @@
-autokana
+dokuritsu-autoKana
 ========
 
 A zero-dependency library for automatically rendering Furigana for inputed Japanese Text.
